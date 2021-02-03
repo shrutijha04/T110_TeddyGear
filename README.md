@@ -23,5 +23,5 @@ Link to Website: https://sites.google.com/view/teddygear-t110
 
 ## Poster
 
-<img src="" width="700" height="600">
+<img src="Poster.pdf" width="700" height="600">
 

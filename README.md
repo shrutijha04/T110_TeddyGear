@@ -12,3 +12,5 @@ If you are a parent and you cannot find the time to play and interact with your 
 As a solution to this, parents tend to fill their children’s room with a lot of toys so as to fill the void of their absence. However, the toys available in the market are mostly not interactive. They are just a normal piece of plastic that does not provide many options to the child’s creativity to play with it. And even those which are somewhat interactive are too loud and monotonous. The toys never give the humanly feel to toddlers which they need the most. The toys don’t feel alive or don’t have a human-like feel, which may lead to children feeling lonely. This can heavily affect their mental health.
 
 Teddy Gear is smartly designed with the idea of helping parents and introducing kids to new toys that are unique. Teddy Gear contains features like breathing, changing facial expression, body movement, which are the basic things a human being does. Teddy Gear never makes the kid feel alone and keeps them busy.
+
+Link to Website: https://sites.google.com/view/teddygear-t110

@@ -5,7 +5,7 @@ Animating inanimate objects
 
 Created by- Shruti Jha, Raghav Nakra and Mohit Bansal
 
-See the working demo: ![click here](https://www.youtube.com/watch?v=n_MtY1QGNnM&feature=youtu.be)
+See the working demo: [click here](https://www.youtube.com/watch?v=n_MtY1QGNnM&feature=youtu.be)
 
 **TEDDY GEAR**:
 An attempt to make a smart toy capable of performing human-like activities. It is the child's perfect companion during their crucial growing age.

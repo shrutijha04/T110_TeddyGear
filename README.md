@@ -1,9 +1,11 @@
 # TeddyGear
-
 Animating inanimate objects
 
-**TEDDY GEAR**:
+## Details
 
+Created by- Shruti Jha, Raghav Nakra and Mohit Bansal
+
+**TEDDY GEAR**:
 An attempt to make a smart toy capable of performing human-like activities. It is the child's perfect companion during their crucial growing age.
 
 ## Motivation
@@ -16,4 +18,10 @@ As a solution to this, parents tend to fill their children’s room with a lot o
 Teddy Gear is smartly designed with the idea of helping parents and introducing kids to new toys that are unique. Teddy Gear contains features like breathing, changing facial expression, body movement, which are the basic things a human being does. Teddy Gear never makes the kid feel alone and keeps them busy.
 
 ## Website for the Product
+The website contains all information about the project- the working demo video, poster, proposal for the project and the source code.
 Link to Website: https://sites.google.com/view/teddygear-t110
+
+## Poster
+
+<img src="" width="700" height="600">
+
